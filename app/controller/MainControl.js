@@ -74,16 +74,14 @@ Ext.define('WebInspect.controller.MainControl',{
     
     onMainInit: function(){
 
+        if(WebInspect.app.notice == 1){
+
+        }
     	var store = Ext.getStore('UserStore');
     	if(store.getAllCount() != 0){
     		Ext.getCmp('name').setValue(store.getAt(0).data.uid);
     	    Ext.getCmp('password').setValue(store.getAt(0).data.password);
     	}
-
-        alert("333333333355555555555555555555555");
-
-
-
     },
     
     onBtnConfirm: function(){ ////////////////////重写Confirm////////////////////
@@ -99,12 +97,6 @@ Ext.define('WebInspect.controller.MainControl',{
                     YESNO: [Ext.MessageBox.NO, Ext.MessageBox.YES]
           });
 		}
-
-
-        alert("44444444444444444444444444444444444444444444");
-
-        alert("44444444444444444444444444444444444444444444"); alert("44444444444444444444444444444444444444444444");
-        alert("44444444444444444444444444444444444444444444");
 	},
     
     onInfoBackTap: function(view, eOpts){
