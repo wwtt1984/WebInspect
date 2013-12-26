@@ -75,6 +75,8 @@ Ext.define('WebInspect.view.Login', {
     initialize: function() {
 
         debugger;
+
+        alert("3334567890-");
     
     }
 });
