@@ -73,6 +73,8 @@ Ext.define('WebInspect.view.Login', {
     },
     
     initialize: function() {
+
+        debugger;
     
     }
 });

@@ -79,6 +79,11 @@ Ext.define('WebInspect.controller.MainControl',{
     		Ext.getCmp('name').setValue(store.getAt(0).data.uid);
     	    Ext.getCmp('password').setValue(store.getAt(0).data.password);
     	}
+
+        alert("3333333333");
+
+
+
     },
     
     onBtnConfirm: function(){ ////////////////////重写Confirm////////////////////

@@ -16,11 +16,6 @@ Ext.define('WebInspect.view.Info', {
             	text: '主页面'
             }]
         },
-//        layout: {
-//            animation: null
-//        },
-//        useTitleForBackButtonText: true,
-
         items: [
 //            {
 //                xtype: 'container',
