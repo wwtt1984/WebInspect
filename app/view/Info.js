@@ -15,16 +15,6 @@ Ext.define('WebInspect.view.Info', {
             	ui: 'back',
             	text: '主页面'
             }]
-        },
-        items: [
-//            {
-//                xtype: 'container',
-//                itemId: 'infocontainer',
-//                title: 'cccc'
-//            }
-//            {
-//            	xclass: 'WebInspect.view.Function'
-//            }
-        ]
+        }
     }
 });

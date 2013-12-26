@@ -80,7 +80,7 @@ Ext.define('WebInspect.controller.MainControl',{
     	    Ext.getCmp('password').setValue(store.getAt(0).data.password);
     	}
 
-        alert("3333333333");
+        alert("333333333355555555555555555555555");
 
 
 
@@ -100,6 +100,8 @@ Ext.define('WebInspect.controller.MainControl',{
           });
 		}
 
+
+        alert("44444444444444444444444444444444444444444444");
 	},
     
     onInfoBackTap: function(view, eOpts){

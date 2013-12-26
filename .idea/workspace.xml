@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f2c8b0-e9d2-46a0-a1c5-c725ee698581" name="Default" comment="">
+    <list default="true" id="59f2c8b0-e9d2-46a0-a1c5-c725ee698581" name="Default" comment="wt">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/Info.js" afterPath="$PROJECT_DIR$/app/view/Info.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/Login.js" afterPath="$PROJECT_DIR$/app/view/Login.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controller/MainControl.js" afterPath="$PROJECT_DIR$/app/controller/MainControl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebInspect.iws" />
@@ -29,10 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainControl.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainControl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controller/MainControl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="40" selection-start="2234" selection-end="2234" vertical-scroll-proportion="0.55593807" vertical-offset="1482" max-vertical-offset="11894">
+            <state line="103" column="62" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="11932">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Info.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/view/Info.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="9" selection-start="351" selection-end="351" vertical-scroll-proportion="0.55593807" vertical-offset="0" max-vertical-offset="581">
               <folding />
             </state>
           </provider>
@@ -56,8 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/controller/MainControl.js" />
         <option value="$PROJECT_DIR$/app/view/Login.js" />
+        <option value="$PROJECT_DIR$/app/controller/MainControl.js" />
         <option value="$PROJECT_DIR$/app/view/Info.js" />
       </list>
     </option>
@@ -253,12 +260,18 @@
       <created>1388042522679</created>
       <updated>1388042522679</updated>
     </task>
+    <task id="LOCAL-00001" summary="wt">
+      <created>1388043285588</created>
+      <updated>1388043285588</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -285,6 +298,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="wt" />
+    <option name="LAST_COMMIT_MESSAGE" value="wt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -311,16 +326,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/Info.js">
+    <entry file="file://$PROJECT_DIR$/app/controller/MainControl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="353" selection-end="353" vertical-scroll-proportion="0.5886403" vertical-offset="0" max-vertical-offset="684">
+        <state line="103" column="62" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="11932">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/MainControl.js">
+    <entry file="file://$PROJECT_DIR$/app/view/Info.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="40" selection-start="2234" selection-end="2234" vertical-scroll-proportion="0.55593807" vertical-offset="1482" max-vertical-offset="11894">
+        <state line="17" column="9" selection-start="351" selection-end="351" vertical-scroll-proportion="0.55593807" vertical-offset="0" max-vertical-offset="581">
           <folding />
         </state>
       </provider>
